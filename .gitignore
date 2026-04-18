@@ -17,4 +17,8 @@ test_tree
 .vscode/
 .idea/
 
-
+.pes/
+*.o
+*.out
+test_*
+*.swp
